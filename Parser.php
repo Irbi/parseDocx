@@ -250,7 +250,7 @@ class ParserDocx extends Parser
 
 
 	/**
-	* Search for <b>bold</b> using recutsion
+	* Search for <b>bold</b> using recursion
 	*
 	* @var object DOMDocument
 	* @var string
